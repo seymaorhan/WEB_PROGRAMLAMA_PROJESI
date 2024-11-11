@@ -3,7 +3,7 @@
 
 Bu proje, kuaför ve güzellik salonlarının yönetimini kolaylaştırmak için geliştirilmiş bir web uygulamasıdır. Kullanıcılar, çalışanların uzmanlık alanlarına göre randevu alabilir ve işletmeler işlemleri, süreleri ve ücretleri tanımlayabilir. ASP.NET Core MVC ile oluşturulan sistem, REST API ve yapay zeka entegrasyonu sayesinde kullanıcıların saç modeli önerisi almasına olanak tanır. Bu uygulama, hem çalışan verimliliğini artırmayı hem de kullanıcı deneyimini iyileştirmeyi hedeflemektedir.
 
-## Özellikler
+## Eklediğimiz Özellikler
 - **Kuaför/Salon Yönetimi**: Salon işlemlerini, çalışma saatlerini, süre ve ücretleri yönetme.
 - **Çalışan Yönetimi**: Çalışan uzmanlık alanlarını ve uygunluk durumlarını tanımlama.
 - **Randevu Sistemi**: Kullanıcıların uygun çalışanlardan randevu alabilmesi.
